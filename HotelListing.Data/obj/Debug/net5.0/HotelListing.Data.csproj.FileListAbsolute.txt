@@ -1,0 +1,15 @@
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\HotelListing.Data.deps.json
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\HotelListing.Data.dll
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\ref\HotelListing.Data.dll
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\HotelListing.Data.pdb
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.csproj.AssemblyReference.cache
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.AssemblyInfoInputs.cache
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.AssemblyInfo.cs
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.csproj.CoreCompileInputs.cache
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.dll
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\ref\HotelListing.Data.dll
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.pdb
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\HotelListing.Data.runtimeconfig.json
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\bin\Debug\net5.0\HotelListing.Data.runtimeconfig.dev.json
+C:\Users\annbe\Desktop\Repo\PET\HotelListing.Data\obj\Debug\net5.0\HotelListing.Data.genruntimeconfig.cache

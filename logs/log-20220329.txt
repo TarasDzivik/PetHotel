@@ -1,0 +1,9 @@
+2022-03-29 18:05:44.372 +03:00 [] Application Is Starting2022-03-29 18:05:47.180 +03:00 [] Hosting startup assembly exceptionSystem.InvalidOperationException: Startup assembly Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation failed to execute. See the inner exception for more details.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(ObjectHandleOnStack assemblyName, ObjectHandleOnStack requestingAssembly, StackCrawlMarkHandle stackMark, Boolean throwOnFileNotFound, ObjectHandleOnStack assemblyLoadContext, ObjectHandleOnStack retAssembly)
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, RuntimeAssembly requestingAssembly, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, AssemblyLoadContext assemblyLoadContext)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.ExecuteHostingStartups()
+   --- End of inner exception stack trace ---
+2022-03-29 18:05:47.243 +03:00 [] Request starting HTTP/2 GET https://localhost:44389/ - -2022-03-29 18:05:47.278 +03:00 [] Application started. Press Ctrl+C to shut down.2022-03-29 18:05:47.279 +03:00 [] Hosting environment: Development2022-03-29 18:05:47.279 +03:00 [] Content root path: C:\Users\annbe\Desktop\Repo\PET\HotelListing2022-03-29 18:05:47.409 +03:00 [] Request finished HTTP/2 GET https://localhost:44389/ - - - 404 - - 180.8025ms
